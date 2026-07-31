@@ -19,7 +19,7 @@ This project analyzes multi-channel web clickstream and customer engagement data
 3. **Attribution Variance:** Last-Touch attribution overestimated Paid Search revenue by 18% compared to multi-channel touchpoint models.
 
 ## Tableau Dashboard
-https://public.tableau.com/views/D2C_Digital_Marketing_Analytics_Dashboard/MarketingPerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/D2C_Digital_Marketing_Analytics_Dashboard/DataFindingsInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Preview
 <img width="1906" height="1092" alt="Screenshot 2026-07-31 004828" src="https://github.com/user-attachments/assets/0cfd642b-afde-422d-bfac-b37c53e510be" />
